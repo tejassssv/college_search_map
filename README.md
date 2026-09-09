@@ -42,20 +42,6 @@ Through this project, I learned:
 * Handling events in an interactive map
 * Generating HTML files using Python
 
-## 📌 Future Improvements
-
-I plan to improve this project by adding:
-
-* 🔎 Better search and filtering
-* 🎓 More colleges and universities
-* 🏙️ City and state filters
-* 📚 Course/branch filters
-* 📈 College statistics
-* 🌦️ Weather information
-* 💰 Average package information
-* 🎯 Entrance exam and cutoff information
-* 🎨 Improved map UI
-* 📱 Better mobile responsiveness
 
 ## 🎯 Purpose of the Project
 
