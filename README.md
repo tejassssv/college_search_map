@@ -33,12 +33,10 @@ Through this project, I learned:
 * Python dictionaries and lists
 * Working with geographical coordinates
 * Latitude and longitude
-* JSON vs Python dictionaries
 * GeoJSON structure
 * Creating interactive maps with Folium
 * Adding markers and layers
 * Using Folium's Search plugin
-* Basic JavaScript integration
 * Handling events in an interactive map
 * Generating HTML files using Python
 
